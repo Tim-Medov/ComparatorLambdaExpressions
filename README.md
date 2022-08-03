@@ -1,5 +1,5 @@
 
-## ComparatorLambdaExpressions
+## comparator-lambda-expressions
 
 ### This example demonstrates sorting by comparator and lambda expressions
 
